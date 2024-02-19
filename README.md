@@ -1,14 +1,14 @@
 # UFO Tracking App
 
 Este proyecto es una aplicación web desarrollada con Python, Flask y MongoDB para el seguimiento de avistamientos de objetos voladores no identificados (OVNIs). 
-La aplicación permite a los usuarios consltar y cargar nuuevos datos sobre avistamientos de OVNIs mediante un formulario de consulta y otro de registro, respectivamente. 
+La aplicación permite a los usuarios consultar y cargar nuevos datos sobre avistamientos de OVNIs mediante un formulario de consulta y otro de registro, respectivamente. 
 Los datos registrados son almacenado y organizados en una base de datos MongoDB.
 
 ## Requisitos previos
 
 - Python instalado en tu sistema. Puedes descargarlo desde [aquí](https://www.python.org/downloads/).
 - MongoDB instalado en tu sistema. Puedes encontrar instrucciones de instalación en [este enlace](https://docs.mongodb.com/manual/installation/).
-- MongoDB Compass
+- MongoDB Compass.
 - MongoDB Atlas, libre o por pago. 
 - Flask y otras dependencias de Python instaladas. Puedes instalarlas ejecutando el siguiente comando en tu terminal:
 
