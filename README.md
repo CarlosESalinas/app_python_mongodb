@@ -9,7 +9,7 @@ Los datos registrados son almacenado y organizados en una base de datos MongoDB.
 - Python instalado en tu sistema. Puedes descargarlo desde [aquí](https://www.python.org/downloads/).
 - MongoDB instalado en tu sistema. Puedes encontrar instrucciones de instalación en [este enlace](https://docs.mongodb.com/manual/installation/).
 - MongoDB Compass
-- MongoDB Atlas, free tier or above
+- MongoDB Atlas, libre o por pago. 
 - Flask y otras dependencias de Python instaladas. Puedes instalarlas ejecutando el siguiente comando en tu terminal:
 
 
